@@ -14,9 +14,9 @@ It is one of the deepest human questions. As technology improves, we find new an
 <h1 align="left">
 <b>Project Description</b>
 </h1>
-Current methods use two filters to search the haystack. First, Listen's team intersperses scans of the target stars with scans of other regions of the sky. Any signal that appears in both sets of scans is probably not coming from the direction of the target star. Second, the pipeline discards signals that don't change their frequency, because this means they are probably close to the telescope. A moving source should have a signal suggesting movement, similar to the change in pitch of a passing fire truck's siren. These two filters are quite effective, but we know that they can be improved. Undoubtedly, channeling misses interesting signals, particularly those with a complex time or frequency structure, and those in regions of the spectrum with a lot of interference.
+Current methods use two filters to search the haystack. Any signal that appears in both sets of scans is probably not coming from the direction of the target star. Second, the pipeline discards signals that don't change their frequency, because this means they are probably close to the telescope. A moving source should have a signal suggesting movement, similar to the change in pitch of a passing fire truck's siren. These two filters are quite effective, but we know that they can be improved. Undoubtedly, channeling misses interesting signals, particularly those with a complex time or frequency structure, and those in regions of the spectrum with a lot of interference.
 
-This project aims to help identify anomalous signals in Breakthrough Listen target scans
+This project aims to help identify anomalous signals in space
 
 <h1 align="left">
 <b>Project Highlights</b>
