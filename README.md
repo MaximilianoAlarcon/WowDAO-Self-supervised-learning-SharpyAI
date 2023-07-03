@@ -22,4 +22,4 @@ This project aims to help identify anomalous signals in space
 <b>Project Highlights</b>
 </h1>
 
-* There are no confirmed examples of extraterrestrial signals to use to train machine learning algorithms, the data source includes some simulated signals (which they call "needles") in the telescope's data haystack. They've identified some of the hidden needles so you can train your model to find more. This project has the potential to help answer one of the biggest questions in science.
+* There are no confirmed examples of extraterrestrial signals to use to train machine learning algorithms, the data source includes some simulated signals (which they call "needles") in the telescope's data haystack. This project has the potential to help answer one of the biggest questions in science.
