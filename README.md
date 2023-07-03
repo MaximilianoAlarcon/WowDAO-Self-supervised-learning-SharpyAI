@@ -9,7 +9,7 @@
 
 "Are we alone in the universe?"
 
-It is one of the deepest human questions. As technology improves, we find new and more powerful ways to search for answers. The Listen team is part of the Search for Extraterrestrial Intelligence (SETI) and uses the largest steerable dish on the planet, the 100 meter diameter Green Bank Telescope. Like any SETI search, the motivation to communicate is also the biggest challenge. Human beings have built an enormous number of radio devices. It's hard to look for a faint alien transmission needle in the huge haystack of modern technology detections.
+It is one of the deepest human questions. As technology improves, we find new and more powerful ways to search for answers. The motivation to communicate is also the biggest challenge. Human beings have built an enormous number of radio devices. It's hard to look for a faint alien transmission needle in the huge haystack of modern technology detections.
 
 <h1 align="left">
 <b>Project Description</b>
