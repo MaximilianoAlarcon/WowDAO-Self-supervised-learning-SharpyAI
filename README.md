@@ -23,3 +23,8 @@ This project aims to help identify anomalous signals in space
 </h1>
 
 * There are no confirmed examples of extraterrestrial signals to use to train machine learning algorithms, the data source includes some simulated signals (which they call "needles") in the telescope's data haystack. This project has the potential to help answer one of the biggest questions in science.
+
+<h1 align="left">
+<b>Architecture of Neural Network</b>
+</h1>
+<img src="SharpyAI Neural Network.png" />
